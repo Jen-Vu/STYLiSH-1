@@ -1,0 +1,49 @@
+/* 
+  Localizable.strings
+  STYLiSH
+
+  Created by yueh on 2019/7/31.
+  Copyright © 2019 yueh. All rights reserved.
+*/
+"gotoCheckoutBtn" = "前往結帳";
+"size" = "尺寸";
+"stock" = "庫存";
+"texture" = "材質";
+"wash" = "洗滌";
+"place" = "產地";
+"note" = "備註";
+"addtoCart" = "加入購物車";
+"Color" = "顏色";
+"Success" = "成功加入！";
+"ChoseColor" = "選擇顏色";
+"ChoseSize" = "選擇尺寸";
+"ChoseNum" = "選擇數量";
+"Item" = "結帳商品";
+"recipient" = "收件資訊";
+"Payment" = "付款詳情";
+"cash" = "信用卡付款";
+"creditcard" = "貨到付款";
+"Loginsuccess" = "登入成功";
+"Loginfail" = "登入失敗";
+"Login" = "請先登入會員";
+"Loginfirst" = "登入會員後即可完成結帳。";
+"result" = "結帳結果";
+"pendpayment" = "待付款";
+"set" = "設定";
+"phone" = "手機綁定";
+"feedback" = "系統回饋";
+"service" = "客服訊息";
+"address" = "地址";
+"refund" = "帳戶退款";
+"deliverynotice" = "貨到通知";
+"collection" = "收藏";
+"awaitingShipment" = "待出貨";
+"shipped" = "待簽收";
+"awaitingReview" = "待評價";
+"exchange" = "退換貨";
+"ProductQuauntity" = " 總計 (%d 樣商品)";
+"stockNum" = "庫存: %d";
+"order" = "我的訂單";
+"allorders" = "全部訂單";
+"moreservices" = "更多服務";
+"noitem" = "購物車沒商品！快去購物吧～" ;

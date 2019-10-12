@@ -1,0 +1,50 @@
+/* 
+  Localizable.strings
+  STYLiSH
+
+  Created by yueh on 2019/7/31.
+  Copyright © 2019 yueh. All rights reserved.
+*/
+
+"gotoCheckoutBtn" = "Checkout";
+"size" = "Size";
+"stock" = "Stock";
+"texture" = "Texture";
+"wash" = "Wash";
+"place" = "Place";
+"note" = "Note";
+"addtoCart" = "ShoppingCart";
+"Color" = "Color";
+"Success" = "Success";
+"ChoseColor" = "ChoseColor";
+"ChoseSize" = "ChoseSize";
+"ChoseNum" = "ChoseNum";
+"Item" = "ItemList";
+"recipient" = "Recipient";
+"Payment" = "Payment";
+"cash" = "cash";
+"creditcard" = "creditcard";
+"Loginsuccess" = "Login Success";
+"Loginfail" = "Login Fail";
+"Login" = "Login";
+"Loginfirst" = "You can complete the checkout after logging in to the member.";
+"result" = "Chechkout Result";
+"pendpayment" = "PendPayment";
+"set" = "Set";
+"phone" = "RegisterPhone";
+"feedback" = "Feedback";
+"service" = "Service";
+"address" = "Address";
+"refund" = "Refund";
+"deliverynotice" = "Notice";
+"collection" = "Collection";
+"awaitingShipment" = "Shipment";
+"shipped" = "Shipped";
+"awaitingReview" = "Review";
+"exchange" = "Exchange";
+"ProductQuauntity" = "Total( %d products)" ;
+"stockNum" = "Stock: %d";
+"order" = "My Order";
+"allorders" = "All Orders";
+"moreservices" = "More services";
+"noitem" = "Go Shopping!";
