@@ -149,5 +149,5 @@ class LoginAPI {
 
 ## Requirements
 * Xcode 10
-* iOS 12 SDK
+* iOS 12 SDK <br>
 An iPhone running iOS 13.0 A code signing key from Apple is required to deploy apps to a device.
